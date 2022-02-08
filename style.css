@@ -84,7 +84,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: #FF6A3D;
+    background: #101820ff;
 }
 .navbar .max-width{
     display: flex;
